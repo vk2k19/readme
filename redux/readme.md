@@ -14,14 +14,14 @@ A store object holds application state and has methods to manipulate application
 ## Creating store
 createStore is used to create a store which connects reducers, initial application state and optional middleware.
 
-```
+```js
 import { createStore, applyMiddleware } from 'redux';
 import Reducers from 'path/to/combinedReducer';
 
 import middleware1 from 'your-middleware';
 import middleware2 from 'path/to/your-custom-middleware';
 
-const initialApplicationState = <your_initial_application_state>;
+const initialApplicationState = `<your_initial_application_state>`;
 const appliedMiddleware = applyMiddleWare(middleWare1, middleware2, ...);
 
 createStore(Reducers, initialApplicationState = {}, appliedMiddleware);
@@ -40,9 +40,8 @@ With help of context we can access all provided arguments and use them under mid
 `Caveat`: Dispatched action via store.dispatch will actually travel the whole middleware chain again, including the current middleware.
 
 ## Custom middleware
-```
-Example:
-
+```js
+// Example:
 const customLogger = ({getState, dispatch}) => next => action => {
 
     console.log(getState());
@@ -58,9 +57,8 @@ const customLogger = ({getState, dispatch}) => next => action => {
 ## combineReducers
 `combineReducers` takes different reducer and combine them as a single reducer to use and update single store.
 
-```
-Example:
-
+```js
+// Example:
 const combineReducer = (Reducers) => {
     return (state = {}, action) => {
         return Object.keys(Reducers).reduce((accumulator, reducer) => {
@@ -77,7 +75,7 @@ const combineReducer = (Reducers) => {
 ## Provider
 To share single application state and avoid passing chained props from one child to another child. we need to use context. To bind context to application and child component a component is required which creates context and makes it available for its children. this is a popular pattern and is provided by react-redux provider.
 
-```
+```js
 import { Provider } from 'react-redux';
 import Store from 'path/to/application-store-created-with-createStore';
 
@@ -86,7 +84,7 @@ import Store from 'path/to/application-store-created-with-createStore';
 </Provider>
 ```
 *Example of provider implementation and consumption:*
-```
+```js
 import { Component } from 'react';
 import PropTypes from 'prop-types';
 
@@ -107,13 +105,13 @@ Provider.childContextTypes = {
 To consume store without passing it thorough nested components as props we use context.
 To use context we need to connect our component to this context and this is where connect method from react-redux comes handy.
 
-```
+```js
 import { connect } from 'react-redux';
 
 connect(mapStateToProps, mapDispatchToProps)(App);
 ```
 *Example of HOC context implementation:*
-```
+```js
 import PropTypes from 'prop-types';
 
 const connect = (statesProps, actionProps, props) => {
