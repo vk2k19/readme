@@ -140,3 +140,5 @@ HOC.contextType = {
     store: PropTypes.Object
 }
 ```
+
+[Go back to homepage](../)
