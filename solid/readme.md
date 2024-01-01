@@ -41,3 +41,7 @@ Is collection of principles which complements each other and helps in creating s
 - [Udemy Video: SOLID Principles: Introducing Software Architecture & Design](https://www.udemy.com/course/solid-principles-object-oriented-design-architecture)
 - [Wiki: SOLID Principle](https://en.wikipedia.org/wiki/SOLID)
 - [Article: How can we use SOLID principles in Javascript](https://hackernoon.com/who-said-solid-is-applicable-only-in-oo-languages-heres-how-you-can-do-it-in-javascript-yyyo3590)
+
+***
+
+[Go back to homepage](../)
