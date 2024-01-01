@@ -117,3 +117,7 @@ customElements.define('error-text-in-p', ErrorInP, { extends: 'p' });
 
 ## Reference:
 [Web Components | MDN](https://developer.mozilla.org/en-US/docs/Web/Web_Components)
+
+***
+
+[Go back to homepage](../)
