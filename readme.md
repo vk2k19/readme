@@ -12,4 +12,4 @@
 
 ***
 
-[vk2k19](/) | [Vijayendra's Protfolio](/)
+[&#x1F3E0; Vijayendra's Protfolio | vk2k19](/)
