@@ -44,4 +44,4 @@ Is collection of principles which complements each other and helps in creating s
 
 ***
 
-[Go back to homepage](../)
+[&#128218; Go back to readme list](../) ¦ [&#x1F3E0; Vijayendra's Protfolio | vk2k19](/) 
