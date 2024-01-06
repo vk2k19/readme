@@ -1,6 +1,6 @@
 # &#128218; Readme
 
-## Summarized information on topic for your reference
+**Summarized information on topic for your reference**
 
 |Index|Date when authoured|Topics|
 | - | - | - |
