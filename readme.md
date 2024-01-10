@@ -7,7 +7,7 @@
 | 01 | Nov 2019 | [Redux](./redux/readme.md) |
 | 02 | Dec 2019 | [Web component](./webcomponent/readme.md) |
 | 03 | Apr 2020 | [SOLID principles](./solid/readme.md) |
-| 04 | Coming soon | [Robots.txt](./robots/readme.md) |
+| 04 | Jan 2024 | [What and Why of Robots.txt](./robots/readme.md) <br /> [How to read and write Robots.txt](./robots/robots.md) |
 
 
 ***
