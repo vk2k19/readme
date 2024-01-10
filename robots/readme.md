@@ -23,7 +23,7 @@ While robots.txt is a powerful tool, it's not a foolproof solution. Bots, whethe
 Distinguishing between good and bad bots is essential. Good bots respect the guidelines outlined in the robots.txt file, contributing positively to your web application's visibility and security. In contrast, bad bots tend to ignore these directives, posing potential risks to your site's integrity.
 
 ## Looking Ahead
-This article provides a foundational understanding of robots.txt and its impact on web applications. In an upcoming document, we will delve deeper into the specifics of robots.txt for developers and site owners, offering insights into its content and best practices for optimal results. ~Stay tuned for valuable guidance on maximizing the effectiveness of your robots.txt file.~ 
+This article provides a foundational understanding of robots.txt and its impact on web applications. In an upcoming document, we will delve deeper into the specifics of robots.txt for developers and site owners, offering insights into its content and best practices for optimal results. ~~Stay tuned for valuable guidance on maximizing the effectiveness of your robots.txt file.~~
 
 Wait is over [Learn how to read and wtite robots.txt](./robots.md).
 
