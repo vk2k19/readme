@@ -25,7 +25,7 @@ Distinguishing between good and bad bots is essential. Good bots respect the gui
 ## Looking Ahead
 This article provides a foundational understanding of robots.txt and its impact on web applications. In an upcoming document, we will delve deeper into the specifics of robots.txt for developers and site owners, offering insights into its content and best practices for optimal results. ~~Stay tuned for valuable guidance on maximizing the effectiveness of your robots.txt file.~~
 
-Wait is over [Learn how to read and wtite robots.txt](./robots.md).
+Wait is over [Learn how to read and write robots.txt](./robots.md).
 
 ***
 
