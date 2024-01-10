@@ -128,3 +128,8 @@ Sitemap: https://www.example.com/sitemap.xml
 [Bing's article on robots.txt](https://www.bing.com/webmasters/help/how-to-create-a-robotstxt-file-cb7c31ec)
 
 [Validate your robots.txt at Bing's](https://www.bing.com/webmasters/help/robotstxt-tester-623520ca)
+
+
+***
+
+[&#128218; Readme list](../) ¦ [:arrow_backward: Why we need robots.txt](./readme.md) ¦ [&#x1F3E0; Vijayendra's Protfolio &#124; vk2k19](/) 
