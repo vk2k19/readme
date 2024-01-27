@@ -74,3 +74,8 @@ The "priority" tag is an optional element within a sitemap XML. It specifies the
 - [About Sitemaps](https://www.sitemaps.org/)
 - [Google doc on sitemap](https://developers.google.com/search/docs/crawling-indexing/sitemaps/overview)
 - [Wiki sitemap](https://en.wikipedia.org/wiki/Site_map)
+
+
+***
+
+[&#128218; Go back to readme list](../) ¦ [&#x1F3E0; Vijayendra's Protfolio &#124; vk2k19](/) 
