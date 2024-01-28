@@ -40,7 +40,7 @@ XML includes various tags designed to represent site structure and information, 
 
 The "urlset" tag is obligatory as it encapsulates the file and denotes the current protocol standard being referenced.
 
-### url
+#### url
 
 The "url" tag is essential as it serves as the parent tag for each URL entry, encapsulating the following tags to provide information about each URL.
 
@@ -64,7 +64,7 @@ This represents the anticipated frequency at which page content may change. Howe
 - yearly
 - never
 
-#### priority
+### priority
 
 The "priority" tag is an optional element within a sitemap XML. It specifies the priority of scanning relative to other pages listed in the sitemap. The value ranges from 0.0 to 1.0, with a default value of 0.5. This value enables crawlers to prioritize the crawling of one URL over another based on their assigned priority level.
 
