@@ -34,8 +34,8 @@ As content providers (webmasters), you aim to:
 
 To achieve these objectives, several optimizations can be made on your site, such as:
 
-- Creating a sitemap.
-- Implementing robots.txt.
+- Creating a [sitemaps](../readme/sitemaps).
+- Implementing [robots.txt](../readme/robots).
 - Using appropriate meta tags like keywords, descriptions, title, noindex, etc.
 - Ensuring semantic and correct content on your pages.
 - Incorporating structured data on your pages for more interactive and meaningful search results.
@@ -56,4 +56,6 @@ These optimizations help search engines understand your content and display it b
 - [Sitemaps](../readme/sitemaps)
 - [Robots.txt](../readme/robots)
 
+***
 
+[&#128218; Go back to readme list](../) ¦ [&#x1F3E0; Vijayendra's Protfolio &#124; vk2k19](/) 
