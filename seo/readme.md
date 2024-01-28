@@ -15,7 +15,7 @@ A search engine is a program available on the internet, used by many individuals
 - THEN the search engine provides a list of relevant options,
 - THEN you choose content from the list.
 
-![Example search using chrome browser](./SEO-USER-SEARCH-EXAMPLE.png)
+![Example search using chrome browser](./SEO-USER-SEARCH-EXAMPLE.gif)
 
 Note: You might trigger a search directly via the search engine by entering terms in your browser input field. For example, you can add a term in Google to search or a web address to directly open it.
 
